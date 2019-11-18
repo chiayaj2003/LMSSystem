@@ -1,0 +1,6 @@
+ISBN-1| Where the Wild Things Are| 1
+ISBN-2| The Cat in the Hat| 2
+ISBN-3| Harry Potter and the Philosopher's Stone| 3
+ISBN-4| Charlotte's Web| 4
+ISBN-5| The Hobbit| 5
+ISBN-6| A Wrinkle in Time| 6

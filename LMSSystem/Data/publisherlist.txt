@@ -1,0 +1,6 @@
+1|Harper & Row|ISBN-1
+2|Random House, Houghton Mifflin|ISBN-2
+3|Bloomsbury|ISBN-3
+4|Harper & Brothers|ISBN-4
+5|Allen & Unwin| ISBN-5
+6|Farrar, Straus and Giroux|ISBN-6

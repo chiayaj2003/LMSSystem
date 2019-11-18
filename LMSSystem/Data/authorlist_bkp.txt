@@ -1,0 +1,6 @@
+1| Maurice Sendak| 508-699-4561
+2| Dr. Seuss| 235-895-6982
+3| J. K. Rowling| 356-568-9987
+4| E. B. White| 526-895-6547
+5| J. R. R. Tolkien| 567-894-2456
+6| Madeleine L'Engle| 546-894-6597
